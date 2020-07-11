@@ -32,4 +32,4 @@ All the datasets were used from kaggle.
 
 ## Technologies Used
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png)
-![alt text](https://hackernoon.com/drafts/ohq63y5w.png)
+![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg)
