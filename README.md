@@ -23,6 +23,7 @@ Pneumonia | Deep Learning Model(CNN) | 95%
 ## NOTE
 ==> Python version 3.6.8 was used for the whole project.<br>
 ==> You can find all the models in [models](https://github.com/venugopalkadamba/Multi_Disease_Predictor/tree/master/models) folder.
+
 ## Steps to run the WebApp in local Computer
 **Step-1:** Download the files in the repository.<br>
 **Step-2:** Get into the downloaded folder, open command prompt in that directory and install all the dependencies using following command<br>
