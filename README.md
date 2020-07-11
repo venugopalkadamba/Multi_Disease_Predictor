@@ -8,8 +8,8 @@ This webapp was developed using Flask Web Framework. The models used to predict 
 * Liver Disease
 * Malaria
 * Pneumonia
-<br>
-**Models with their Accuracy of Prediction**
+
+### Models with their Accuracy of Prediction
 Disease | Type of Model | Accuracy
 --- | --- | ---
 Diabetes | Machine Learning Model | 98.25%
