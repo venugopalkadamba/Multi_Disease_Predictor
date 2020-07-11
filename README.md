@@ -21,7 +21,9 @@ Malaria | Deep Learning Model(CNN) | 96%
 Pneumonia | Deep Learning Model(CNN) | 95%
 <hr>
 **NOTE:** Python version 3.6.8 was used for the whole project.
+<br>
 <hr>
+<br>
 ## Steps to run the WebApp in local Computer
 **Step-1:** Download the files in the repository.<br>
 **Step-2:** Get into the downloaded folder, open command prompt in that directory and install all the dependencies using following command<br>
