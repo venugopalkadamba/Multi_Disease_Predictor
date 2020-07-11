@@ -30,6 +30,15 @@ All the datasets were used from kaggle.
 * [Malaria Dataset](https://www.kaggle.com/iarunava/cell-images-for-detecting-malaria)
 * [Pneumonia Dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 
+## Links for Python Notebooks used for model creation
+* [Diabetes Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Diabetes_Prediction.ipynb)
+* [Breast Cancer Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Cancer_Prediction.ipynb)
+* [Heart Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Heart_Disease_Prediction.ipynb)
+* [Kidney Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Kidney_Disease_Prediction.ipynb)
+* [Liver Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Liver_Disease_Prediction.ipynb)
+* [Malaria Notebook](https://www.kaggle.com/venugopalkadamba/malaria?scriptVersionId=38537287)
+* [Pneumonia Notebook](https://www.kaggle.com/venugopalkadamba/pneumonia-prediction)
+
 ## Technologies Used
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png)
 ![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg)
