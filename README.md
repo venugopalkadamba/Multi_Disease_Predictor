@@ -34,4 +34,4 @@ All the datasets were used from kaggle.
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png)
 ![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg)
 ![alt text](https://i1.wp.com/www.corellis.eu/wp-content/uploads/2018/09/logo-flask.png)
-![alt text](https://dailysmarty-production.s3.amazonaws.com/uploads/post/img/509/feature_thumb_heroku-logo.jpg)
+![alt text](https://redislabs.com/wp-content/uploads/2016/11/logo-square-heroku.png)
