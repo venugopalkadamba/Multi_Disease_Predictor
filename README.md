@@ -6,12 +6,16 @@ This webapp was developed using Flask Web Framework. The models used to predict 
 * Heart Disease
 * Kidney Disease
 * Liver Disease
-* Malaria Disease
-* Pneumonia Disease
+* Malaria
+* Pneumonia
 <br>
 **Models with their Accuracy of Prediction**
-| Disease        | Type of Model           | Accuracy  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Disease | Type of Model | Accuracy
+--- | --- | ---
+Diabetes | Machine Learning Model | 98.25%
+Breast Cancer | Machine Learning Model | 98.25%
+Heart Disease | Machine Learning Model | 85.25%
+Kidney Disease | Machine Learning Model | 99%
+Liver Disease | Machine Learning Model | 78%
+Malaria | Deep Learning Model | 96%
+Pneumonia | Deep Learning Model | 95%
