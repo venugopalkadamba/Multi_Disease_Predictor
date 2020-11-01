@@ -54,10 +54,3 @@ All the datasets were used from kaggle.
 * [Liver Disease Notebook](https://github.com/venugopalkadamba/Multi_Disease_Predictor/blob/master/Python%20Notebooks/Liver_Disease_Prediction.ipynb)
 * [Malaria Notebook](https://www.kaggle.com/venugopalkadamba/malaria?scriptVersionId=38537287)
 * [Pneumonia Notebook](https://www.kaggle.com/venugopalkadamba/pneumonia-prediction)
-
-## Technologies Used
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png" width="200px" height="200px">
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg" width="200px" height="200px">
-<img src="https://redislabs.com/wp-content/uploads/2016/11/logo-square-heroku.png" width="200px" height="200px">
-<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg" width="200px" height="200px">
