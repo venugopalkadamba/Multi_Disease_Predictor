@@ -56,7 +56,8 @@ All the datasets were used from kaggle.
 * [Pneumonia Notebook](https://www.kaggle.com/venugopalkadamba/pneumonia-prediction)
 
 ## Technologies Used
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png)
-![alt text](https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg)
-![alt text](https://i1.wp.com/www.corellis.eu/wp-content/uploads/2018/09/logo-flask.png)
-![alt text](https://redislabs.com/wp-content/uploads/2016/11/logo-square-heroku.png)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/330px-Scikit_learn_logo_small.svg.png" width="200px" height="200px">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg" width="200px" height="200px">
+<img src="https://redislabs.com/wp-content/uploads/2016/11/logo-square-heroku.png" width="200px" height="200px">
+<img src="https://cdn.analyticsvidhya.com/wp-content/uploads/2017/06/08075935/keras-tensorflow-logo.jpg" width="200px" height="200px">
