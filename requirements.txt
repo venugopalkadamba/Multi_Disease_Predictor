@@ -37,7 +37,7 @@ scipy==1.5.1
 six==1.15.0
 sklearn==0.0
 tensorboard==2.0.2
-tensorflow==2.0.0
+tensorflow==2.0.3
 tensorflow-estimator==2.0.1
 termcolor==1.1.0
 threadpoolctl==2.1.0
