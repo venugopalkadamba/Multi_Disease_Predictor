@@ -5,7 +5,7 @@ certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
 Flask==1.1.2
-gast==0.2.2
+gast==0.3.3
 google-auth==1.18.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
@@ -21,7 +21,6 @@ Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 Markdown==3.2.2
 MarkupSafe==1.1.1
-numpy==1.19.0
 oauthlib==3.1.0
 opt-einsum==3.2.1
 pickle-mixin==1.0.2
@@ -36,9 +35,9 @@ scikit-learn==0.23.1
 scipy==1.5.1
 six==1.15.0
 sklearn==0.0
-tensorboard==2.0.2
+tensorboard==2.3.0
 tensorflow==2.3.1
-tensorflow-estimator==2.0.1
+tensorflow-estimator==2.3.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
 urllib3==1.25.9
